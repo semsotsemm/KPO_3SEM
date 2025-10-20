@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u043B\u0430\u0431\u044B\\KPO_3SEM\\laboratory_task_17\\laboratory_task_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818489A9-44A2-4324-911A-B88A9AAB39D6}|laboratory_task_17\\laboratory_task_17.vcxproj|C:\\Users\\user\\Desktop\\\u043B\u0430\u0431\u044B\\KPO_3SEM\\laboratory_task_17\\laboratory_task_17\\laboratory_task_17\\laboratory_task_17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{818489A9-44A2-4324-911A-B88A9AAB39D6}|laboratory_task_17\\laboratory_task_17.vcxproj|solutionrelative:laboratory_task_17\\laboratory_task_17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laboratory_task_17.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043B\u0430\u0431\u044B\\KPO_3SEM\\laboratory_task_17\\laboratory_task_17\\laboratory_task_17\\laboratory_task_17.cpp",
+              "RelativeDocumentMoniker": "laboratory_task_17\\laboratory_task_17.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043B\u0430\u0431\u044B\\KPO_3SEM\\laboratory_task_17\\laboratory_task_17\\laboratory_task_17\\laboratory_task_17.cpp",
+              "RelativeToolTip": "laboratory_task_17\\laboratory_task_17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T20:24:30.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
