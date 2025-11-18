@@ -1,0 +1,3 @@
+﻿  Assembling asm.asm...
+asm.obj : warning LNK4258: директива "/ENTRY:main@0" несовместима с параметром "/ENTRY:main"; будет пропущена
+  SE_Asm01.vcxproj -> C:\Users\user\work_space\Laboratory_work\KPO_3SEM\asmb_3\SE_Asm01\Debug\SE_Asm01.exe
