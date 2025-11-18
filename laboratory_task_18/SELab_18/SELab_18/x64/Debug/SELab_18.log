@@ -1,0 +1,7 @@
+﻿  GRB.cpp
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\laboratory_task_18\SELab_18\SELab_18\Error.h(17,9): warning C4005: ERROR_ENTRY_NODEF100: изменение макроопределения
+  (компиляция исходного файла "GRB.cpp")
+      C:\Users\user\work_space\Laboratory_work\KPO_3SEM\laboratory_task_18\SELab_18\SELab_18\Error.h(15,9):
+      см. предыдущее определение "ERROR_ENTRY_NODEF100"
+  
+  SELab_18.vcxproj -> C:\Users\user\work_space\Laboratory_work\KPO_3SEM\laboratory_task_18\SELab_18\x64\Debug\SELab_18.exe
