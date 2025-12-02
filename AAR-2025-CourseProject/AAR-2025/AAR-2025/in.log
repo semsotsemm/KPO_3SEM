@@ -1,0 +1,107 @@
+Дата создания протокола: 03.12.2025 в 01:34:28
+
+------------- Параметры -------------
+
+-in :  C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\in.aar
+-log:  C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\in.log
+-out:  C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\in.out
+-------------------------------------
+---------- Лесический анализ --------
+
+--------- Результаты анализа --------
+
+--------- Таблица лексем ---------
+
+Всего лексем: 183
+
+nfi(ni,ni)
+{
+ni;
+i=i*(i+i);
+ri;
+};
+tfi(ti,ti)
+{
+ti;
+i=i(i,l,l)+i;
+ri;
+};
+m{
+ni;
+ni;
+ni;
+ti;
+ti;
+ti;
+bi=1;
+i(l,l);
+i(l,l);
+i=l;
+i=l;
+i=l;
+i=l;
+i=i(i,i);
+i=i(i,i);
+pl;
+pi;
+pi;
+c(i==1)
+{
+pl
+}
+e
+{
+pl
+}
+si;
+al;
+pl
+al;
+pl
+pi(i);
+rl;
+};
+
+----- Таблица идентификаторов -----
+
+Всего идентификаторов: 34
+
+Индекс  Имя         Тип             Тип данных     Значение    
+---------------------------------------------------------------
+3       fi          (V)Переменная   UNKNOWN               UNDEF
+6       x           (V)Переменная   UNKNOWN               UNDEF
+9       y           (V)Переменная   UNKNOWN               UNDEF
+13      z           (V)Переменная   UNKNOWN               UNDEF
+32      fs          (V)Переменная   UNKNOWN               UNDEF
+35      a           (V)Переменная   UNKNOWN               UNDEF
+38      b           (V)Переменная   UNKNOWN               UNDEF
+42      c           (V)Переменная   UNKNOWN               UNDEF
+46      subst       (V)Переменная   UNKNOWN               UNDEF
+50      lnum        (L)Литерал      INT                       1
+52      lnum        (L)Литерал      INT                       3
+74      sa          (V)Переменная   UNKNOWN               UNDEF
+77      sb          (V)Переменная   UNKNOWN               UNDEF
+80      sc          (V)Переменная   UNKNOWN               UNDEF
+83      d           (V)Переменная   UNKNOWN               UNDEF
+87      pow         (V)Переменная   UNKNOWN               UNDEF
+89      lnum        (L)Литерал      INT                       2
+91      lnum        (L)Литерал      INT                       3
+94      sqrt        (V)Переменная   UNKNOWN               UNDEF
+96      lnum        (L)Литерал      INT                       4
+98      lnum        (L)Литерал      INT                       2
+103     lnum        (L)Литерал      INT                       1
+107     lnum        (L)Литерал      INT                       5
+111     Lstr        (L)Литерал      STR            1234567890  
+115     Lstr        (L)Литерал      STR            ABCDEFGHIJKLMNOP
+136     Lstr        (L)Литерал      STR            Контрольный пример:
+153     Lstr        (L)Литерал      STR            1           
+158     lnum        (L)Литерал      INT                       2
+164     lnum        (L)Литерал      INT                       1
+167     lnum        (L)Литерал      INT                       2
+169     lnum        (L)Литерал      INT                       2
+172     lnum        (L)Литерал      INT                       3
+174     strle       (V)Переменная   UNKNOWN               UNDEF
+180     lnum        (L)Литерал      INT                       0
+
+
+Успешное завершение.

@@ -1,0 +1,37 @@
+﻿  AAR-2025.cpp
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(17,9): warning C4005: ERROR_ENTRY_NODEF100: изменение макроопределения
+  (компиляция исходного файла "AAR-2025.cpp")
+      C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(15,9):
+      см. предыдущее определение "ERROR_ENTRY_NODEF100"
+  
+  LT.cpp
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(17,9): warning C4005: ERROR_ENTRY_NODEF100: изменение макроопределения
+  (компиляция исходного файла "LT.cpp")
+      C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(15,9):
+      см. предыдущее определение "ERROR_ENTRY_NODEF100"
+  
+  Lexer.cpp
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(17,9): warning C4005: ERROR_ENTRY_NODEF100: изменение макроопределения
+  (компиляция исходного файла "Lexer.cpp")
+      C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(15,9):
+      см. предыдущее определение "ERROR_ENTRY_NODEF100"
+  
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Lexer.cpp(64,63): warning C4838: Преобразование из "unsigned int" в "int" требует сужающего преобразования.
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Lexer.cpp(204,21): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "ERROR_THROW"
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Lexer.cpp(206,54): warning C4838: Преобразование из "unsigned int" в "int" требует сужающего преобразования.
+  Log.cpp
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(17,9): warning C4005: ERROR_ENTRY_NODEF100: изменение макроопределения
+  (компиляция исходного файла "Log.cpp")
+      C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(15,9):
+      см. предыдущее определение "ERROR_ENTRY_NODEF100"
+  
+  MFST.cpp
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(17,9): warning C4005: ERROR_ENTRY_NODEF100: изменение макроопределения
+  (компиляция исходного файла "MFST.cpp")
+      C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\Error.h(15,9):
+      см. предыдущее определение "ERROR_ENTRY_NODEF100"
+  
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\MFST.cpp(119,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\AAR-2025\MFST.cpp(256,66): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Создание кода...
+  AAR-2025.vcxproj -> C:\Users\user\work_space\Laboratory_work\KPO_3SEM\AAR-2025-CourseProject\AAR-2025\x64\Debug\AAR-2025.exe

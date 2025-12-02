@@ -1,0 +1,57 @@
+int def fi(int x, int y) 
+{ 
+    int z; 
+    z = x * (x + y); 
+    return z; 
+}; 
+ 
+string def fs (string a, string b) 
+{ 
+    string c; 
+    
+    c = substr(a, 1, 3) + b; 
+    return c; 
+};
+
+
+main { 
+    int x; 
+    int y; 
+    int z; 
+    string sa; 
+    string sb; 
+    string sc; 
+    bool d = true;
+    pow(2,3);
+    sqrt(4,2);
+    x = 1; 
+    y = 5; 
+    
+    sa = '1234567890'; 
+    sb = 'ABCDEFGHIJKLMNOP'; 
+    
+    z = fi(x, y); 
+    
+    sc = fs(sa, sb); 
+    
+    print 'Контрольный пример:'; 
+    print z;          
+    print sc;  
+    if(a == true)
+    {
+       print '1'
+    }       
+    else
+    {
+       print 2
+    }
+    
+    switch b:
+	case 1:
+		print 2
+	case 2:
+		print 3
+    print strlen(sc);   
+    
+    return 0; 
+};
