@@ -1,0 +1,1 @@
+integer function fi(integer x, integer y)|{|declare integer z;|z= x*(x+y);|return z;|};|main|{|declare integer x;|return 0;|};|
